@@ -1,6 +1,6 @@
-= MySQLとPostgreSQLと日本語全文検索 - Azure DatabaseでMroonga・PGroongaを使いたいですよね！？
+= PHPでPostgreSQLとPGroongaを使って高速日本語全文検索！
 
-MySQL・PostgreSQLでの日本語全文検索の現状を紹介します。また、MySQL・PostgreSQLで日本語全文検索する方法としてMroonga・PGroongaを使う方法を紹介します。この話を聞くと、Azure DatabaseにMroonga・PGroongaがインストールされているといいのに！と思うはずです。
+PHPでPostgreSQLとPGroongaを使って高速日本語全文検索を実現する方法を紹介します！これを参考にLIKEよりも速くリッチな日本語全文検索機能を実現しましょう！
 
 == ライセンス
 
@@ -38,9 +38,9 @@ CC BY 3.0
 
 === インストール
 
-  gem install rabbit-slide-kou-fast-full-text-search-with-php-and-postgresql-and-pgroonga
+  gem install rabbit-slide-kou-fast-japanese-full-text-search-with-php-and-postgresql-and-pgroonga
 
 === 表示
 
-  rabbit rabbit-slide-kou-fast-full-text-search-with-php-and-postgresql-and-pgroonga
+  rabbit rabbit-slide-kou-fast-full-japanese-text-search-with-php-and-postgresql-and-pgroonga
 

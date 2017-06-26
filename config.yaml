@@ -1,11 +1,12 @@
 ---
 id: php-study-115
-base_name: fast-full-text-search-with-php-and-postgresql-and-pgroonga
+base_name: fast-japanese-full-text-search-with-php-and-postgresql-and-pgroonga
 tags:
 - rabbit
 - php
 - postgresql
 - full-text-search
+- japanese
 - pgroonga
 - phpstudy
 presentation_date: 2017-06-28
