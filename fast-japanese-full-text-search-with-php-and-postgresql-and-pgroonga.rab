@@ -469,13 +469,21 @@
 
 = その他（1）
 
+  * Mroonga+PHPでも簡単だよ！
+  * Groongaではじめる全文検索
+    * https://grnbook-ja.tumblr.com/
+    * 著者：北市真
+    * 今はまだ無料！
+
+= その他（2）
+
   * だれかPHP document searchを\n
     メンテナンスしませんか？
     * 普通に便利じゃないかと！
     * 複数バージョン対応とか
     * 複数言語対応とか
 
-= その他（2）
+= その他（3）
 
   * PHPの開発に参加しませんか？
     * PDOのPostgreSQL対応強化とか
@@ -483,7 +491,7 @@
   * (('wait'))やりたいけど自分はムリそう…
     * そんなことはないんですよ！
 
-= その他（3）
+= その他（4）
 
   * OSS Gateワークショップ
     * OSS開発未経験者を経験者にする\n
@@ -492,7 +500,7 @@
     * 次回は7月29日\n
       (('tag:x-small:https://oss-gate.doorkeeper.jp/events/upcoming'))
 
-= その他（4）
+= その他（5）
 
   * PHPカンファレンス2017内で\n
     OSS Gateワークショップ開催は\n
