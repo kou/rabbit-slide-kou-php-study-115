@@ -70,3 +70,22 @@
   # src = images/search-pgroonga-pg-bigm.pdf
   # relative_height = 100
 
+= よし！
+
+  * PHPで
+  * PostgreSQLとPGroongaを使って
+  * 高速日本語全文検索サービスを\n
+    作ろう！
+
+= PHP document search
+
+  # image
+  # src = images/php-document-search.png
+  # relative_height = 100
+
+= 機能
+
+  * 検索キーワードハイライト
+  * キーワード周辺テキスト表示
+  * オートコンプリート
+    * ローマ字対応（seiki→正規表現）
